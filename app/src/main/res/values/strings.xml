@@ -1,5 +1,6 @@
 <resources>
+    <!---> Alle Strings hier definierten-->
     <string name="app_name">HAY</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello World it's me Mario</string>
+    <string name="hello_world">Hello World its me Mario</string>
 </resources>
